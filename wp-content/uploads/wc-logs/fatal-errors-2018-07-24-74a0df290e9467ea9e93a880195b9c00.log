@@ -1,0 +1,19 @@
+2018-07-24T14:51:02+00:00 CRITICAL Uncaught Error: Call to undefined function eaw_do_shortcode() in C:\xampp\htdocs\sunil\wordpress\wp-content\plugins\themeisle-companion\vendor\codeinwp\elementor-extra-widgets\widgets\woo\sale-products.php:86
+Stack trace:
+#0 C:\xampp\htdocs\sunil\wordpress\wp-includes\class-wp-widget.php(372): Woo_Sale_Products->widget(Array, Array)
+#1 C:\xampp\htdocs\sunil\wordpress\wp-includes\widgets.php(743): WP_Widget->display_callback(Array, Array)
+#2 C:\xampp\htdocs\sunil\wordpress\wp-content\themes\storevilla\sidebar.php(24): dynamic_sidebar('storevillasideb...')
+#3 C:\xampp\htdocs\sunil\wordpress\wp-includes\template.php(688): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\sunil\wordpress\wp-includes\template.php(647): load_template('C:\\xampp\\htdocs...', true)
+#5 C:\xampp\htdocs\sunil\wordpress\wp-includes\general-template.php(110): locate_template(Array, true)
+#6 C:\xampp\htdocs\sunil\wordpress\wp-content\themes\storevilla\single.php(33): get_sidebar()
+#7 C:\xampp\htdocs\sunil\wordpress\wp-includes\templa
+
+2018-07-24T14:59:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-24T14:59:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-24T14:59:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-07-24T14:59:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
